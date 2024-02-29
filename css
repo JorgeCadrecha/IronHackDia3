@@ -34,3 +34,28 @@
   background-color: yellow;
   float: left;
 }
+
+h1 {
+  color: forestgreen;
+}
+
+h2 {
+  color: #008080;
+}
+
+p {
+  color: rgb(255, 0, 0);
+}
+
+span.word1 {
+  color: blue;
+}
+
+span.word2 {
+  color: darkorange;
+}
+
+span.word3 {
+  color: purple;
+}
+
