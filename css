@@ -1,0 +1,36 @@
+.container {
+  width: 400px;
+}
+
+.box {
+  border: 1px solid black;
+  height: 100px;
+}
+
+#div1, #div3, #div4, #div5, #div6 , #div7 , #div8, #div9 {
+  width: 200px;
+  height: 100px;
+}
+
+#div2 #div5 {
+  width: 100px;
+  height: 100px;
+  background-color: lightpink;
+  float: left;
+  margin: 5px;
+
+}
+
+#div1, #div2, #div6,#div9 {
+  background-color: cyan;
+  float: left;
+}
+
+#div3, #div4, #div5 {
+  background-color: red;
+  float: right;
+}
+#div7, #div8{
+  background-color: yellow;
+  float: left;
+}
